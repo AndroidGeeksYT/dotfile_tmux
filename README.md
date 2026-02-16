@@ -27,7 +27,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 ## Sample :
 
 <p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_fastfetch/blob/main/assets/sample.png">
+<img src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png">
 </p>
 
 ---
