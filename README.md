@@ -87,7 +87,7 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 
 ---
 
-# 💸 Donate
+## 💸 Donate
 <p>
 <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
 </p>
