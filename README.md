@@ -60,3 +60,9 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + {`: Move current pane left.
 - `Ctrl + b + }`: Move current pane right.
 - `Ctrl + b + Space`: Cycle through preset pane layouts.
+
+## 📋 Copy & Search (Buffer)
+- `Ctrl + b + [`: Enter Copy Mode (for scrolling and selecting).
+- `Ctrl + b + ]`: Paste the most recent buffer.
+- `Ctrl + b + #`: List all copy buffers.
+- `Ctrl + b + =`: Choose a specific buffer to paste.
