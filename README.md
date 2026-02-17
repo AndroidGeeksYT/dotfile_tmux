@@ -66,3 +66,9 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + ]`: Paste the most recent buffer.
 - `Ctrl + b + #`: List all copy buffers.
 - `Ctrl + b + =`: Choose a specific buffer to paste.
+
+## ⚙️ System & Help
+- `Ctrl + b + ?`: View all keybindings currently bound.
+- `Ctrl + b + :`: Enter the tmux command line.
+- `Ctrl + b + r`: Force a redraw of the screen.
+- `Ctrl + b + t`: Show the digital clock.
