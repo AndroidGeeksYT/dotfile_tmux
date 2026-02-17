@@ -74,9 +74,9 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + t`: Show the digital clock.
 
 ## 🔌 TPM (Tmux Plugin Manager)
--`Ctrl + b + I`: (Capital I) Install new plugins.
--`Ctrl + b + U`: Update existing plugins.
--`Ctrl + b + alt + u`: Uninstall plugins not in your config file.
+- `Ctrl + b + I`: (Capital I) Install new plugins.
+- `Ctrl + b + U`: Update existing plugins.
+- `Ctrl + b + alt + u`: Uninstall plugins not in your config file.
 
 ---
 
