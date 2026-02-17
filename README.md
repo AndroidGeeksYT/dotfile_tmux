@@ -48,3 +48,15 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + f`: Find a window by name.
 - `Ctrl + b + &`: Kill/Close the current window.
 - `Ctrl + b + .`: Move a window (change its index number).
+
+## 🪟 Pane Management
+- `Ctrl + b + %`: Vertical split.
+- `Ctrl + b + "`: Horizontal split.
+- `Ctrl + b + o`: Cycle through open panes.
+- `Ctrl + b + ;`: Move to the previously active pane.
+- `Ctrl + b + x`: Kill the current pane.
+- `Ctrl + b + z`: Zoom (Toggle fullscreen) the active pane.
+- `Ctrl + b + !`: Convert a pane into a new window.
+- `Ctrl + b + {`: Move current pane left.
+- `Ctrl + b + }`: Move current pane right.
+- `Ctrl + b + Space`: Cycle through preset pane layouts.
