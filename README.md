@@ -8,6 +8,15 @@
 
 ---
 
+## Sample :
+
+<p>
+<img src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png">
+</p>
+
+---
+
+
 ## ⚙️ Requirements
 
 - `tmux`
@@ -21,13 +30,12 @@
 # Clone this repo
 git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 ```
-
 ---
 
-## Sample :
-
-<p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png">
-</p>
-
----
+## 📂 Session Management
+- `Ctrl + b + s`: List sessions to switch or manage.
+- `Ctrl + b + $`: Name/Rename the current session.
+- `Ctrl + b + d`: Detach from the session but keep it running.
+- `Ctrl + b + (`: Switch to the previous session.
+- `Ctrl + b + )`: Switch to the next session.
+- `Ctrl + b + L`: Switch to the last used session.
