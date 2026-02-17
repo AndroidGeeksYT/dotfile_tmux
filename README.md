@@ -72,3 +72,23 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + :`: Enter the tmux command line.
 - `Ctrl + b + r`: Force a redraw of the screen.
 - `Ctrl + b + t`: Show the digital clock.
+
+## 🔌 TPM (Tmux Plugin Manager)
+-`Ctrl + b + I`: (Capital I) Install new plugins.
+-`Ctrl + b + U`: Update existing plugins.
+-`Ctrl + b + alt + u`: Uninstall plugins not in your config file.
+
+---
+
+## 🎖️ Credits
+- Colorscheme: Catppuccin for Tmux – for the aesthetic status bar and modules.
+- Plugin Management: Tmux Plugin Manager (TPM) – for handling the plugin ecosystem.
+- Optimization: Performance tweaks for Termux inspired by the Android/Termux community.
+
+---
+
+# 💸 Donate
+<p>
+<img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
+</p>
+
