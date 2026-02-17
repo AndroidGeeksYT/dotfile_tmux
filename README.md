@@ -8,14 +8,11 @@
 
 ---
 
-## Sample :
-
 <p>
 <img src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png">
 </p>
 
 ---
-
 
 ## ⚙️ Requirements
 
@@ -39,3 +36,15 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 - `Ctrl + b + (`: Switch to the previous session.
 - `Ctrl + b + )`: Switch to the next session.
 - `Ctrl + b + L`: Switch to the last used session.
+
+## 🪟 Window Management
+- `Ctrl + b + c`: Create a new window.
+- `Ctrl + b + ,`: Rename the current window.
+- `Ctrl + b + w`: Choose a window from a list.
+- `Ctrl + b + n`: Go to the next window.
+- `Ctrl + b + p`: Go to the previous window.
+- `Ctrl + b + l`: Go to the last active window.
+- `Ctrl + b + 0-9`: Select window by index number.
+- `Ctrl + b + f`: Find a window by name.
+- `Ctrl + b + &`: Kill/Close the current window.
+- `Ctrl + b + .`: Move a window (change its index number).
