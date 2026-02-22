@@ -20,6 +20,10 @@
 
 - `tmux`
 - A Nerd Font (e.g., [Hack Nerd Font](https://www.nerdfonts.com/))
+```bash
+pkg update && pkg upgrade -y
+pkg install tmux
+```
 
 ---
 
@@ -89,8 +93,10 @@ git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
 
 ---
 
-## 💸 Donate
+## :gift_heart: Support
+
+If you would like to support it via donation
+
 <p>
 <img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
 </p>
-
