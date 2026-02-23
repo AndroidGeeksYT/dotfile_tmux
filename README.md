@@ -32,6 +32,8 @@ pkg install tmux
 ```bash
 # Clone this repo
 git clone https://github.com/AndroidGeeksYT/dotfile_tmux ~/.config/tmux/
+# tpm
+git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 ```
 ---
 
