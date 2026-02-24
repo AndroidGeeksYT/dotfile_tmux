@@ -1,20 +1,35 @@
 <div align="center">
- <p>
-<img src="https://img.shields.io/badge/Maintained%3F-YES-cyan?style=for-the-badge">
-<img src="https://img.shields.io/github/license/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/stars/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/forks/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge">
-<img src="https://img.shields.io/github/issues/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge">
-</p>
-
-<p>
-  <img src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true" width="400" alt="Shiroko">
+  <p>
+    <img
+      src="https://img.shields.io/badge/Maintained%3F-YES-cyan?style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/github/license/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/github/stars/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/github/forks/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge"
+    />
+    <img
+      src="https://img.shields.io/github/issues/AndroidGeeksYT/dotfile_tmux?color=cyan&style=for-the-badge"
+    />
   </p>
 
-<p>
-<img src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png">
-</p>
-   
+  <p>
+    <img
+      src="https://github.com/AndroidGeeksYT/AndroidGeeksYT/blob/main/assets/gif/shiroko.gif?raw=true"
+      width="400"
+      alt="Shiroko"
+    />
+  </p>
+
+  <p>
+    <img
+      src="https://github.com/AndroidGeeksYT/dotfile_tmux/blob/main/assets/sample.png"
+    />
+  </p>
 </div>
 
 ---
@@ -112,7 +127,9 @@ git clone https://github.com/tmux-plugins/tpm ~/.config/tmux/plugins/tpm
 If you would like to support it via donation
 
 <div align="center">
- <p>
-<img src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg">
-</p>   
+  <p>
+    <img
+      src="https://github.com/AndroidGeeksYT/AndroidGeeks-Kickstart-Nvim/blob/main/img/donate.jpg"
+    />
+  </p>
 </div>
